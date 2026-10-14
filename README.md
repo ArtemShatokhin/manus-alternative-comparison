@@ -39,3 +39,7 @@ The other projects in this repo each cover a slice of the same ground, so you ca
 - [FAQ](docs/faq.md) answers the questions buyers ask about open-source Manus alternatives.
 
 A longer, blog-length version of this comparison lives on [Kortix](https://kortix.com/blog/open-source-manus-alternatives).
+
+## The site this repository supports
+
+This comparison is kept current on [manus-alternative.com](https://manus-alternative.com), and the site's pages go deeper on each part of the decision: [what Manus is](https://manus-alternative.com/what-is-manus), [Manus pricing](https://manus-alternative.com/manus-pricing), [the open-source alternatives](https://manus-alternative.com/manus-alternatives), [the side-by-side comparison](https://manus-alternative.com/comparison), and [the questions buyers ask](https://manus-alternative.com/faq).
