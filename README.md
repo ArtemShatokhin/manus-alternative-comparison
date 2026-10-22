@@ -15,7 +15,7 @@ Manus is a hosted product: an "action engine" that creates slides, websites, gam
 | Where configuration lives | Files in one git repo you own | Settings inside the Manus app |
 | How work is reviewed | A change request a person approves | Runs in the app, no repo review |
 | Team and SSO | SAML 2.0 SSO and SCIM 2.0 | Team plan with SSO |
-| Price shape | Self-host free; team seats at $40/month | Credit-based monthly plans |
+| Price shape | Self-host free; 500 free credits monthly, then 100 per dollar, unlimited members | Credit-based monthly plans |
 
 The code behind the Kortix column is open, so you can read, fork, and audit it on [Kortix on GitHub](https://github.com/kortix-ai/suna). Kortix runs at a scale where thousands of agents work in parallel on one config, each on its own cloud computer, and a person approves what lands.
 
